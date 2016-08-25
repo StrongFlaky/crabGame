@@ -1,4 +1,4 @@
-package myAPComputerClass;
+package myAPComputerClass;//just a comment
 import java.util.Scanner;
 public class crap {
 	public static int rollDice(int x)
